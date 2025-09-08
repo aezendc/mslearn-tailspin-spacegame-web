@@ -7,7 +7,7 @@ trigger:
 - '*'
 
 pool:
-  name: 'Default'
+  name: 'Default' 
   demands:
   - npm
 
