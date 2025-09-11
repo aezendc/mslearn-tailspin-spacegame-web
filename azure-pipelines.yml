@@ -2,7 +2,7 @@ trigger:
 - '*'
 
 pool:
-  vmImage: 'AezenAgentPool'
+  name: 'AezenAgentPool'
   demands:
   - npm
 
